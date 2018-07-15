@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+
+<chat
+  numberOfClients = "2"
+  numberOfLastMessages = "4"
+>
+  <client> 
+    <name>Name</name>
+    <password>123456</password>
+  </client>
+  <client> 
+    <name>q</name>
+    <password>q1</password>
+  </client>
+  <client> 
+    <name>a</name>
+    <password>aq</password>
+  </client>
+  <client> 
+    <name>z</name>
+    <password>za</password>
+  </client>
+</chat>
